@@ -1,2 +1,5 @@
 # vargas_test
-Test repor for Delta training June2024 - Delete later
+Test repo for Delta training June 2024 - Delete later
+
+## Purpose
+Create a remote repo on GitHub and practice Git workflow
